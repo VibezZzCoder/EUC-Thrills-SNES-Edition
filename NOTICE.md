@@ -32,8 +32,8 @@ or emulator is explicitly fine. Read it before assuming something is forbidden.
 **This is not the same licence as the browser game.** *EUC Thrills* for the
 web, at <https://github.com/VibezZzCoder/EUC-thrills>, is MIT-licensed with
 CC BY 4.0 assets. This native edition shares that game's name and its subject
-and nothing else: it is a separate codebase written in C and 65C816 assembly,
-with its own art, its own music and its own sound. The licences are different
+and nothing else: it is a separate codebase written in C for the 65C816, with
+its own art, its own music and its own sound. The licences are different
 on purpose and neither one governs the other.
 
 The licence covers copyright. It does not license the *EUC Thrills* name or
@@ -41,7 +41,8 @@ the wordmark.
 
 ## What is this project's own work
 
-- All game code — the C and 65C816 sources, the gameplay, and the build.
+- All game code — the C sources, the cartridge header and data declarations,
+  the gameplay, and the build.
 - All sprite pixel art. Every sprite is authored pixel-by-pixel inside a
   generator script; no image was traced or converted into them.
 - **All audio, with no exceptions.** Every sound effect and every one of the
