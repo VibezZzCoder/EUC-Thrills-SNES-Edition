@@ -13,9 +13,11 @@ One hit ends the run. There is no brake pedal and no second chance on a hazard
 
 |  |  |
 |---|---|
-| ![Title screen](media/1-title.png) | ![City Plaza](media/2-city-plaza.png) |
+| ![City Plaza](media/1-city-plaza.png) | ![Park & Riverside](media/2-park.png) |
 | ![Hillside](media/3-hillside.png) | ![Industrial Edge](media/4-industrial.png) |
 | ![Underpass](media/5-underpass.png) | ![Trailhead](media/6-trailhead.png) |
+
+*The six zones of one round, in the order you ride them.*
 
 ## Play it
 
@@ -25,6 +27,22 @@ no enhancement chip, so anything that runs commercial SNES carts will run it.
 
 Every button is in the manual below, but you can work the whole game out from
 the title screen, which is the point.
+
+## Playing in Delta on iPhone or iPad
+
+1. Save `euc-thrills-snes.sfc` into the Files app — iCloud Drive, On My iPhone,
+   anywhere Delta can reach.
+2. In Delta, add a game and pick that file. The exact menu wording moves around
+   between Delta and iOS versions; there is nothing to patch, and no companion
+   file or external game data to supply.
+3. Tap the cover to ride.
+
+**HI** is a battery save, not a save state — the cartridge writes it itself, so
+your best run survives closing the app without you having to remember anything.
+
+Delta's on-screen pad works. If you have a Bluetooth controller, pair it and
+use that instead: this game wants **Right** held down almost continuously, and
+that is easier on a stick than on glass.
 
 ## Controls
 
@@ -122,8 +140,9 @@ of it — boots and plays a full run, title through game over, in both
 **Mesen 2.1.1** and **ares v148**.
 
 It has also been played from the title screen through to the ending on
-**SNES Classic (Mini)** hardware, on a television, with a real controller.
-Original Super NES hardware and flash cartridges are still untested.
+**SNES Classic (Mini)** hardware, on a television, with a real controller, and
+it has been run in **Delta** on iOS. Original Super NES hardware and flash
+cartridges are still untested.
 
 One known defect, listed because a homebrew ROM should say so rather than let
 you find out: pausing on certain bars can leave a note sustaining instead of
