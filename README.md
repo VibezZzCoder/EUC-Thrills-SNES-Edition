@@ -52,7 +52,8 @@ that is easier on a stick than on glass.
 | **D-pad Left** | Lean back — brake |
 | **B** | Jump. Distance scales with your speed. Also stands you up out of a duck |
 | **Y** *or* **D-pad Down** | Duck. Held posture; clears overhead birds. Costs you speed for as long as you hold it |
-| **Start** | Start, pause, and return to the title from game over |
+| **Start** | Start, pause, and return to the title from game over or from the ending |
+| **A** | At the sign-off after every completed round: ride on into the next round — faster, harder, your score carried |
 | **Select** | Credits — from the title screen; press again to go back |
 
 **Ducking costs you speed.** Staying low is not free: every frame you hold the
@@ -74,8 +75,10 @@ its own scenery, road surface and hazards. Clearing one earns you a wheel back,
 up to five, and a short intermission before the next — press **Start** if you
 would rather not wait.
 
-Reach the gate at the trailhead and someone is waiting for you. Stay as long as
-you like; **Start** rides on into round two with your score intact.
+Reach the gate at the trailhead and someone is waiting for you. Stay as long
+as you like — then the sign-off offers the choice, after every round: **A**
+rides on into the next round with your score intact, **Start** ends the run at
+the title. A natural spot to pass the controller.
 
 Each round is harder than the last up to round five, after which the route
 settles at a fixed difficulty, so two players' scores mean the same thing. The
